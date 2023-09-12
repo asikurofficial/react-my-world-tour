@@ -1,0 +1,18 @@
+.country {
+    border: 1px solid slateblue;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgb(46, 43, 43);
+    color: white;
+}
+
+.img {
+    height: 200px;
+    width: 400px;
+}
+
+.btn {
+    margin: 15px;
+}
